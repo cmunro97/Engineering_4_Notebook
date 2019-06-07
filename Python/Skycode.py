@@ -19,7 +19,7 @@ GPIO.output(17, GPIO.LOW)
 
 counter = 1
 
-f = open("skydatafileboottest03.txt", "w+")
+f = open("skydatafilefinal.txt", "w+") 
 oldAlt = 0
 alt = 0
 time.sleep(60) 
